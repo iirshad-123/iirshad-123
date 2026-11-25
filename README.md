@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Muhammed Irshad 👋
 
-<!--
-**iirshad-123/iirshad-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a BCA graduate passionate about building web applications and learning modern software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BCA Graduate – 2026
+- 💻 Learning Python Full Stack Development at Upcode
+- 🐍 Working with Python and Flask
+- ⚛️ Frontend experience with React and Next.js
+- 🗄️ Learning Django, Django REST Framework and PostgreSQL
+- 🚀 Interested in building real-world applications
+
+## Technical Skills
+
+**Languages:** Python, JavaScript, HTML, CSS
+
+**Frontend:** React, Next.js, Bootstrap
+
+**Backend:** Flask, Django (learning), Django REST Framework (learning)
+
+**Database:** SQL, PostgreSQL
+
+**Tools:** Git, GitHub, VS Code
+
+## Projects
+
+- E-commerce Web Application – Next.js, React, DummyJSON API
+- Flask CRUD Application – Python, Flask, SQL
+- Banking Management System – Python, OOP
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/muhammed-irshad-k-/)
+- [GitHub](https://github.com/iirshad-123)
+- Email: muhammedirshadk78@gmail.com
