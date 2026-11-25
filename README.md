@@ -46,3 +46,11 @@ I'm a BCA graduate passionate about building web applications and learning moder
 - [LinkedIn](https://www.linkedin.com/in/muhammed-irshad-k-/)
 - [GitHub](https://github.com/iirshad-123)
 - Email: muhammedirshadk78@gmail.com
+
+
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iirshad-123&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iirshad-123&layout=compact&theme=tokyonight)
